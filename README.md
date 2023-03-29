@@ -49,6 +49,8 @@ In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-th
 
 ---
 
+---
+
 ### 🎶 Présentation d'Auto-Lyrics : L'avenir de l'alignement et de la correction des paroles 🎶
 
 

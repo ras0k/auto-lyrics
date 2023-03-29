@@ -21,7 +21,7 @@ An rezime, Auto-Lyrics se yon eksperyans pouvwa nan inovasyon ki konbine teknolo
 
 ---
 
-<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/VHiVVZZ.jpeg">
+<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/rK9LhUI.jpeg">
 
 ---
 
@@ -49,7 +49,7 @@ In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-th
 
 ---
 
-<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/VHiVVZZ.jpeg">
+<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/rK9LhUI.jpeg">
 
 ---
 

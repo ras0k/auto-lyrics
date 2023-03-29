@@ -75,6 +75,8 @@ Au cœur d'Auto-Lyrics se trouve GPT-4, le modèle linguistique le plus sophisti
 
 En résumé, Auto-Lyrics est une expérience révolutionnaire qui combine des technologies de pointe pour offrir une expérience inégalée en matière de paroles pour les amateurs de musique et les chanteurs. En exploitant les capacités de WhisperX, Genius et GPT-4, Auto-Lyrics offre aux utilisateurs des paroles parfaitement alignées et précises, rendant plus facile que jamais de profiter et de chanter vos morceaux préférés en toute confiance. Découvrez l'avenir de l'alignement et de la correction des paroles avec Auto-Lyrics et laissez briller votre voix. 🎤✨
 
+---
+
 tuto : 
 
 <img width="600" align="center" alt="tuto" src="https://i.imgur.com/TU86XEq.gif">

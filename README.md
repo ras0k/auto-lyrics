@@ -1,3 +1,23 @@
+### 🎶 Pwesantasyon Auto-Lyrics: Laveni Alineasyon ak Koreksyon Pawòl nan Mizik 🎶
+
+Madanm ak Mesye, moun ki renmen mizik, ak pasyone teknoloji, nou kontan prezante pou nou yon eksperyans inovasyon ak eksitan: "Auto-Lyrics". Teknoloji avanse sa a konbine pouvwa WhisperX pou alineasyon pawòl san wont ak kapasite koreksyon pawòl nan Genius, tout sa ak pouvwa modèl langaj avanse GPT-4 OpenAI.
+
+### 🔊 WhisperX: Alineasyon Pafè
+
+WhisperX, yon sofisyike lojisyèl alineasyon nan mizik, asire ke chak mo ak silab nan mizik ou renmen yo aliyen pafètman ak mizik la. Pa gen plis devinèt oswa bònenan nan pati difisil yo; avèk WhisperX, ou pral chante ansanm tankou yon mèt nan yon ti tan.
+
+### 📝 Genius: Pawòl San Repwoch
+
+Lè yo itilize Genius, koleksyon pawòl nan mizik ak konesans mizikal pi gwo nan mond lan, Auto-Lyrics garanti ke ou gen aksè a pawòl ki pi egzak. Di adyò a pawòl ki mal tande oswa ki pa kòrèk, epi bonjou a yon nivo précision nouvo.
+
+### 🧠 GPT-4: Fòs Entèlijan Atifisyèl
+
+Nan kè Auto-Lyrics, GPT-4, modèl langaj OpenAI ki pi sofitike, se la. Fòs entèlijan atifisyèl sa a idantifye ak kòrige nenpòt erè nan pawòl yo, asire ke yo egzak ak ajou jan yo dwe. Avèk GPT-4, ou pap janm pran nan men ou ap chante pawòl ki pa bon ankò.
+
+An rezime, Auto-Lyrics se yon eksperyans pouvwa nan inovasyon ki konbine teknoloji pi avanse yo pou ofri yon eksperyans pawòl ki pa gen parey pou moun k ap renmen mizik ak chante yo. Lè yo itilize kapasite WhisperX, Genius, ak GPT-4, Auto-Lyrics bay itilizatè pawòl ki aliyen pafètman ak ki egzak, sa ki rann li pi fasil pase janm pou w jwi epi chante mizik ou renmen yo avèk konfyans. Dekouvri lavni alineasyon ak koreksyon pawòl nan mizik avèk Auto-Lyrics, epi kite vwa ou briye. 🎤✨
+
+---
+
 ## Auto-Lyrics
 
 ### 🎶 **Introducing Auto-Lyrics: The Future of Lyric Alignment and Correction** 🎶
@@ -40,7 +60,7 @@ WhisperX, un logiciel avancé d'alignement audio, garantit que chaque mot et syl
 En tirant parti de Genius, la plus grande collection de paroles de chansons et de connaissances musicales au monde, Auto-Lyrics vous assure d'avoir accès aux paroles les plus précises. Dites adieu aux paroles mal comprises ou incorrectes et bonjour à un tout nouveau niveau de précision.
 
 
-🧠 GPT-4 : La Puissance de l'Intelligence Artificielle
+### 🧠 GPT-4 : La Puissance de l'Intelligence Artificielle
 
 Au cœur d'Auto-Lyrics se trouve GPT-4, le modèle linguistique le plus sophistiqué d'OpenAI. Cette puissante intelligence artificielle identifie et corrige les erreurs dans les paroles, garantissant ainsi qu'elles soient aussi précises et à jour que possible. Avec GPT-4, vous ne serez plus jamais pris en train de chanter les mauvais mots.
 

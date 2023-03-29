@@ -1,3 +1,6 @@
+
+## Auto-Lyrics
+
 ### 🎶 Pwesantasyon Auto-Lyrics: Laveni Alineasyon ak Koreksyon Pawòl nan Mizik 🎶
 
 Madanm ak Mesye, moun ki renmen mizik, ak pasyone teknoloji, nou kontan prezante pou nou yon eksperyans inovasyon ak eksitan: "Auto-Lyrics". Teknoloji avanse sa a konbine pouvwa WhisperX pou alineasyon pawòl san wont ak kapasite koreksyon pawòl nan Genius, tout sa ak pouvwa modèl langaj avanse GPT-4 OpenAI.
@@ -17,8 +20,6 @@ Nan kè Auto-Lyrics, GPT-4, modèl langaj OpenAI ki pi sofitike, se la. Fòs ent
 An rezime, Auto-Lyrics se yon eksperyans pouvwa nan inovasyon ki konbine teknoloji pi avanse yo pou ofri yon eksperyans pawòl ki pa gen parey pou moun k ap renmen mizik ak chante yo. Lè yo itilize kapasite WhisperX, Genius, ak GPT-4, Auto-Lyrics bay itilizatè pawòl ki aliyen pafètman ak ki egzak, sa ki rann li pi fasil pase janm pou w jwi epi chante mizik ou renmen yo avèk konfyans. Dekouvri lavni alineasyon ak koreksyon pawòl nan mizik avèk Auto-Lyrics, epi kite vwa ou briye. 🎤✨
 
 ---
-
-## Auto-Lyrics
 
 ### 🎶 **Introducing Auto-Lyrics: The Future of Lyric Alignment and Correction** 🎶
 

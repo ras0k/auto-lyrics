@@ -21,6 +21,10 @@ An rezime, Auto-Lyrics se yon eksperyans pouvwa nan inovasyon ki konbine teknolo
 
 ---
 
+<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/VHiVVZZ.jpeg">
+
+---
+
 ### 🎶 **Introducing Auto-Lyrics: The Future of Lyric Alignment and Correction** 🎶
 
 
@@ -43,7 +47,7 @@ At the core of Auto-Lyrics is GPT-4, OpenAI's most sophisticated language model.
 
 In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-the-art technologies to deliver an unmatched lyric experience for music lovers and singers alike. By harnessing the capabilities of WhisperX, Genius, and GPT-4, Auto-Lyrics provides users with perfectly aligned and accurate lyrics, making it easier than ever to enjoy and sing along to your favorite tunes with confidence. Discover the future of lyric alignment and correction with Auto-Lyrics, and let your voice shine. 🎤✨
 
-<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/VHiVVZZ.jpeg">
+---
 
 ### 🎶 Présentation d'Auto-Lyrics : L'avenir de l'alignement et de la correction des paroles 🎶
 

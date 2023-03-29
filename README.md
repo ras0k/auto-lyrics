@@ -1,6 +1,6 @@
 # auto-lyrics
 
-<img width="1216" align="center" alt="whisperx-genius-gpt4" src="[https://user-images.githubusercontent.com/36994049/211200186-8b779e26-0bfd-4127-aee2-5a9238b95e1f.png](https://i.imgur.com/VHiVVZZ.jpeg)">
+<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/VHiVVZZ.jpeg">
 
 🎶 Introducing Auto-Lyrics: The Future of Lyric Alignment and Correction 🎶
 

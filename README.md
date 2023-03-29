@@ -49,6 +49,8 @@ In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-th
 
 ---
 
+<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/VHiVVZZ.jpeg">
+
 ---
 
 ### 🎶 Présentation d'Auto-Lyrics : L'avenir de l'alignement et de la correction des paroles 🎶

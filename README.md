@@ -1,8 +1,11 @@
 ### Changelog: WhisperX Audio Transcription v2 🚀
+
 In v2 of the WhisperX Audio Transcription project, we've made the following enhancements:
 
 🎵 YouTube URL input: Added support for downloading mp3 files from YouTube URLs using the youtube_dl library. Just input a YouTube URL and let the notebook handle the rest!
+
 🌐 Gradio Interface: Implemented a user-friendly Gradio interface, allowing easy input of YouTube URLs, transcription model selection (large or small), and language choice (French or English) for transcription.
+
 These updates make the WhisperX Audio Transcription project more versatile, interactive, and user-friendly, streamlining the process of transcribing audio from YouTube videos. 🎉
 
 ---

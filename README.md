@@ -10,12 +10,6 @@ These updates make the WhisperX Audio Transcription project more versatile, inte
 
 ---
 
-### 🎶 **Introducing Auto-Lyrics: The Future of Lyric Alignment and Correction** 🎶
-
-
-Ladies and gentlemen, music enthusiasts, and tech aficionados, we are thrilled to present to you an exciting and innovative experiment: "Auto-Lyrics". This cutting-edge technology combines the power of WhisperX for seamless lyric alignment with the lyric correction capabilities of Genius, all powered by the advanced GPT-4 language model by OpenAI.
-
-
 ### 🔊 WhisperX: Perfect Alignment
 
 WhisperX, an advanced audio alignment software, ensures that every word and syllable in your favorite songs is perfectly synchronized with the music. No more guessing or stumbling through tricky sections; with WhisperX, you'll be singing along like a pro in no time.
@@ -37,11 +31,6 @@ In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-th
 <img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/AJAslWw.jpeg">
 
 ---
-
-### 🎶 Présentation d'Auto-Lyrics : L'avenir de l'alignement et de la correction des paroles 🎶
-
-
-Mesdames et messieurs, passionnés de musique et férus de technologie, nous sommes ravis de vous présenter une expérience innovante et passionnante : "Auto-Lyrics". Cette technologie de pointe combine la puissance de WhisperX pour un alignement parfait des paroles avec les capacités de correction des paroles de Genius, le tout alimenté par le modèle linguistique avancé GPT-4 d'OpenAI.
 
 
 ### 🔊 WhisperX : Alignement Parfait

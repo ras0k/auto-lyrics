@@ -32,6 +32,16 @@ In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-th
 
 ---
 
+Changelog : WhisperX Audio Transcription v2 🚀
+Dans la v2 du projet WhisperX Audio Transcription, nous avons apporté les améliorations suivantes :
+
+🎵 Entrée d'URL YouTube : Support ajouté pour télécharger des fichiers mp3 à partir d'URLs YouTube en utilisant la bibliothèque youtube_dl. Entrez simplement une URL YouTube et laissez le notebook gérer le reste !
+
+🌐 Interface Gradio : Implémentation d'une interface Gradio conviviale, permettant une saisie facile des URLs YouTube, la sélection du modèle de transcription (large ou small) et le choix de la langue (français ou anglais) pour la transcription.
+
+Ces mises à jour rendent le projet WhisperX Audio Transcription plus polyvalent, interactif et convivial, simplifiant le processus de transcription audio à partir de vidéos YouTube. 🎉
+
+---
 
 ### 🔊 WhisperX : Alignement Parfait
 

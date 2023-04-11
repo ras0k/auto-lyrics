@@ -8,7 +8,7 @@ In the upcoming v3 of the WhisperX Audio Transcription project, we are planning 
 
 🎛️ WhisperX stabilization: We will update and stabilize the WhisperX integration, providing reliable and accurate transcriptions for your audio files.
 
-Stay tuned for the v3 release, which will offer a more robust and reliable WhisperX Audio Transcription experience. 🎉
+Stay tuned for the v3 release, which will offer a more robust and reliable WhisperX Audio Transcription experience. 📈
 
 ---
 

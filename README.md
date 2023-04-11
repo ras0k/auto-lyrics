@@ -6,7 +6,7 @@ In the upcoming v3 of the WhisperX Audio Transcription project, we are planning 
 
 🛠️ Bug fixes: We'll address all reported bugs from v2 to ensure a smooth and error-free user experience.
 
-🎛️ Faster-Whisper stabilization: We will update and stabilize the WhisperX integration by providing access to faster-whisper which will speed up the proccess and demand less RAM.
+🎛️ Faster-Whisper: We will update and stabilize the WhisperX integration by providing access to faster-whisper which will speed up the proccess and demand less RAM.
 
 Stay tuned for the v3 release, which will offer a more robust and reliable WhisperX Audio Transcription experience. 📈
 

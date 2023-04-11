@@ -44,7 +44,20 @@ In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-th
 
 ---
 
-Changelog : WhisperX Audio Transcription v2 🚀
+#### ⚠️ AVERTISSEMENT: v2 BUGGUÉE - Les utilisateurs ont signalé plusieurs bugs dans la version 2, susceptibles de causer des erreurs inattendues ou des problèmes de performance. Veuillez noter que nous travaillons à résoudre ces problèmes le plus rapidement possible. Une nouvelle version, v3, sera publiée pour corriger ces problèmes une fois que WhisperX sera mis à jour et stabilisé. Restez à l'écoute pour la prochaine version, et merci pour votre patience ! ⚠️
+
+### Journal des modifications: Transcription audio WhisperX v3 (à venir) 🚀
+
+Dans la prochaine version, v3, du projet de transcription audio WhisperX, nous prévoyons d'inclure les améliorations suivantes :
+
+🛠️ Corrections de bugs : Nous résoudrons tous les bugs signalés dans la version 2 pour assurer une expérience utilisateur fluide et sans erreur.
+
+🎛️ Faster-Whisper : Nous mettrons à jour et stabiliserons l'intégration de WhisperX en fournissant un accès à Faster-Whisper qui accélérera le processus et demandera moins de VRAM.
+
+Restez à l'écoute pour la sortie de la version v3, qui offrira une expérience de transcription audio WhisperX plus robuste et fiable. 📈
+
+---
+
 Dans la v2 du projet WhisperX Audio Transcription, nous avons apporté les améliorations suivantes :
 
 🎵 Entrée d'URL YouTube : Support ajouté pour télécharger des fichiers mp3 à partir d'URLs YouTube en utilisant la bibliothèque youtube_dl. Entrez simplement une URL YouTube et laissez le notebook gérer le reste !

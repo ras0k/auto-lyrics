@@ -1,4 +1,15 @@
-### Changelog: WhisperX Audio Transcription v2 🚀
+⚠️ WARNING: v2 BUGGED - Users have reported several bugs in v2, which can cause unexpected errors or performance issues. Please be aware that we are working to resolve these problems as quickly as possible. A new version, v3, will be released to fix these issues once WhisperX is updated and stabilized. Stay tuned for the upcoming release, and thank you for your patience! ⚠️
+
+Changelog: WhisperX Audio Transcription v3 (Upcoming) 🚀
+In the upcoming v3 of the WhisperX Audio Transcription project, we are planning to include the following improvements:
+
+🛠️ Bug fixes: We'll address all reported bugs from v2 to ensure a smooth and error-free user experience.
+
+🎛️ WhisperX stabilization: We will update and stabilize the WhisperX integration, providing reliable and accurate transcriptions for your audio files.
+
+Stay tuned for the v3 release, which will offer a more robust and reliable WhisperX Audio Transcription experience. 🎉
+
+---
 
 In v2 of the WhisperX Audio Transcription project, we've made the following enhancements:
 

@@ -6,9 +6,9 @@ In the upcoming v3 of the WhisperX Audio Transcription project, we are planning 
 
 🛠️ Bug fixes: We'll address all reported bugs from v2 to ensure a smooth and error-free user experience.
 
-🎛️ Faster-Whisper: We will update and stabilize the WhisperX integration by providing access to faster-whisper which will speed up the proccess and demand less RAM.
+🎛️ Faster-Whisper: We will update and stabilize the WhisperX integration by providing access to faster-whisper (whisper-ctranslate2 on pip) which will speed up the proccess and demand less RAM.
 
-Stay tuned for the v3 release, which will offer a more robust and reliable WhisperX Audio Transcription experience. 📈
+Stay tuned for the v3 release, which will offer a more robust and reliable Whisper-cTranslate2 experience. 📈
 
 ---
 
@@ -37,49 +37,3 @@ By leveraging Genius, the world's largest collection of song lyrics and musical 
 At the core of Auto-Lyrics is GPT-4, OpenAI's most sophisticated language model. This AI powerhouse identifies and corrects any errors in lyrics, ensuring that they're as accurate and up-to-date as possible. With GPT-4, you'll never be caught singing the wrong words again.
 
 In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-the-art technologies to deliver an unmatched lyric experience for music lovers and singers alike. By harnessing the capabilities of WhisperX, Genius, and GPT-4, Auto-Lyrics provides users with perfectly aligned and accurate lyrics, making it easier than ever to enjoy and sing along to your favorite tunes with confidence. Discover the future of lyric alignment and correction with Auto-Lyrics, and let your voice shine. 🎤✨
-
----
-
-<img width="1216" align="center" alt="whisperx-genius-gpt4" src="https://i.imgur.com/AJAslWw.jpeg">
-
----
-
-#### ⚠️ AVERTISSEMENT: v2 BUGGUÉE - Les utilisateurs ont signalé plusieurs bugs dans la version 2, susceptibles de causer des erreurs inattendues ou des problèmes de performance. Veuillez noter que nous travaillons à résoudre ces problèmes le plus rapidement possible. Une nouvelle version, v3, sera publiée pour corriger ces problèmes une fois que WhisperX sera mis à jour et stabilisé. Restez à l'écoute pour la prochaine version, et merci pour votre patience ! ⚠️
-
-### Journal des modifications: Transcription audio WhisperX v3 (à venir) 🚀
-
-Dans la prochaine version, v3, du projet de transcription audio WhisperX, nous prévoyons d'inclure les améliorations suivantes :
-
-🛠️ Corrections de bugs : Nous résoudrons tous les bugs signalés dans la version 2 pour assurer une expérience utilisateur fluide et sans erreur.
-
-🎛️ Faster-Whisper : Nous mettrons à jour et stabiliserons l'intégration de WhisperX en fournissant un accès à Faster-Whisper qui accélérera le processus et demandera moins de VRAM.
-
-Restez à l'écoute pour la sortie de la version v3, qui offrira une expérience de transcription audio WhisperX plus robuste et fiable. 📈
-
----
-
-Dans la v2 du projet WhisperX Audio Transcription, nous avons apporté les améliorations suivantes :
-
-🎵 Entrée d'URL YouTube : Support ajouté pour télécharger des fichiers mp3 à partir d'URLs YouTube en utilisant la bibliothèque youtube_dl. Entrez simplement une URL YouTube et laissez le notebook gérer le reste !
-
-🌐 Interface Gradio : Implémentation d'une interface Gradio conviviale, permettant une saisie facile des URLs YouTube, la sélection du modèle de transcription (large ou small) et le choix de la langue (français ou anglais) pour la transcription.
-
-Ces mises à jour rendent le projet WhisperX Audio Transcription plus polyvalent, interactif et convivial, simplifiant le processus de transcription audio à partir de vidéos YouTube. 🎉
-
----
-
-### 🔊 WhisperX : Alignement Parfait
-
-WhisperX, un logiciel avancé d'alignement audio, garantit que chaque mot et syllabe de vos chansons préférées est parfaitement synchronisé avec la musique. Fini les approximations ou les hésitations dans les passages difficiles ; avec WhisperX, vous chanterez en rythme comme un professionnel en un rien de temps.
-
-
-### 📝 Genius : Paroles Impeccables
-
-En tirant parti de Genius, la plus grande collection de paroles de chansons et de connaissances musicales au monde, Auto-Lyrics vous assure d'avoir accès aux paroles les plus précises. Dites adieu aux paroles mal comprises ou incorrectes et bonjour à un tout nouveau niveau de précision.
-
-
-### 🧠 GPT-4 : La Puissance de l'Intelligence Artificielle
-
-Au cœur d'Auto-Lyrics se trouve GPT-4, le modèle linguistique le plus sophistiqué d'OpenAI. Cette puissante intelligence artificielle identifie et corrige les erreurs dans les paroles, garantissant ainsi qu'elles soient aussi précises et à jour que possible. Avec GPT-4, vous ne serez plus jamais pris en train de chanter les mauvais mots.
-
-En résumé, Auto-Lyrics est une expérience révolutionnaire qui combine des technologies de pointe pour offrir une expérience inégalée en matière de paroles pour les amateurs de musique et les chanteurs. En exploitant les capacités de WhisperX, Genius et GPT-4, Auto-Lyrics offre aux utilisateurs des paroles parfaitement alignées et précises, rendant plus facile que jamais de profiter et de chanter vos morceaux préférés en toute confiance. Découvrez l'avenir de l'alignement et de la correction des paroles avec Auto-Lyrics et laissez briller votre voix. 🎤✨

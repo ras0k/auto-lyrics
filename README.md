@@ -1,7 +1,5 @@
 # Changelog
 
----
-
 #### ⚠️ WARNING: v2 BUGGED - Users have reported several bugs in v2, which can cause unexpected errors or performance issues. Please be aware that we are working to resolve these problems as quickly as possible. A new version, v3, will be released to fix these issues once WhisperX is updated and stabilized. Stay tuned for the upcoming release, and thank you for your patience! ⚠️
 
 ---

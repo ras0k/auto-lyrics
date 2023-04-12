@@ -1,6 +1,12 @@
+# Changelog
+
+---
+
 #### ⚠️ WARNING: v2 BUGGED - Users have reported several bugs in v2, which can cause unexpected errors or performance issues. Please be aware that we are working to resolve these problems as quickly as possible. A new version, v3, will be released to fix these issues once WhisperX is updated and stabilized. Stay tuned for the upcoming release, and thank you for your patience! ⚠️
 
-### Changelog: WhisperX Audio Transcription v3 (Upcoming) 🚀
+---
+
+### WhisperX Audio Transcription v3 (Upcoming) 🚀
 
 In the upcoming v3 of the WhisperX Audio Transcription project, we are planning to include the following improvements:
 
@@ -21,6 +27,8 @@ In v2 of the WhisperX Audio Transcription project, we've made the following enha
 These updates make the WhisperX Audio Transcription project more versatile, interactive, and user-friendly, streamlining the process of transcribing audio from YouTube videos. 🎉
 
 ---
+
+# Features
 
 ### 🔊 WhisperX: Perfect Alignment
 

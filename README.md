@@ -1,4 +1,4 @@
-in v4 we will introduce the idea of a very, very, very simple SHA hashing algo just to make sure whatever lyrics are encoded and compressed, then we will use this compressed dataset to save space on ChatGPT-4 while also preventing them from reading our text. this will allow us to interact with ChatGPT in a private and secure way, the private key will be shared word-to-mouth with GPT-4.
+in v4 we will introduce the idea of a very, very, very simple SHA hashing algo just to make sure whatever lyrics are encoded and compressed, then we will use this compressed dataset to save space on ChatGPT-4 while also preventing them from reading our text. this will allow us to interact with ChatGPT in a private and secure way, the private key will be shared through word-of-mouth with GPT-4.
 
 ---
 

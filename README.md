@@ -2,12 +2,6 @@ in v4 we will introduce the idea of a very, very, very simple SHA hashing algo j
 
 ---
 
-# Changelog
-
-#### ⚠️ WARNING: v2 BUGGED - Users have reported several bugs in v2, which can cause unexpected errors or performance issues. Please be aware that we are working to resolve these problems as quickly as possible. A new version, v3, will be released to fix these issues once WhisperX is updated and stabilized. Stay tuned for the upcoming release, and thank you for your patience! ⚠️
-
----
-
 ### Faster-Whisper Audio Transcription v3 (Upcoming) 🚀
 
 In the upcoming v3 of the Auto-Lyrics project, we are planning to include the following improvements:
@@ -17,6 +11,12 @@ In the upcoming v3 of the Auto-Lyrics project, we are planning to include the fo
 🎛️ Faster-Whisper: We will update and stabilize the WhisperX integration by providing access to faster-whisper (whisper-ctranslate2 on pip) which will speed up the proccess and demand less RAM.
 
 Stay tuned for the v3 release, which will offer a more robust and reliable Whisper-cTranslate2 experience. 📈
+
+---
+
+# Changelog
+
+#### ⚠️ WARNING: v2 BUGGED - Users have reported several bugs in v2, which can cause unexpected errors or performance issues. Please be aware that we are working to resolve these problems as quickly as possible. A new version, v3, will be released to fix these issues once WhisperX is updated and stabilized. Stay tuned for the upcoming release, and thank you for your patience! ⚠️
 
 ---
 

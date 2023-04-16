@@ -1,3 +1,7 @@
+in v4 we will introduce the idea of a very, very, very simple SHA hashing algo just to make sure whatever lyrics are encoded and compressed, then we will use this compressed dataset to save space on ChatGPT-4 while also preventing them from reading our text. this will allow us to interact with ChatGPT in a private and secure way, the private key will be shared word-to-mouth with GPT-4.
+
+---
+
 # Changelog
 
 #### ⚠️ WARNING: v2 BUGGED - Users have reported several bugs in v2, which can cause unexpected errors or performance issues. Please be aware that we are working to resolve these problems as quickly as possible. A new version, v3, will be released to fix these issues once WhisperX is updated and stabilized. Stay tuned for the upcoming release, and thank you for your patience! ⚠️

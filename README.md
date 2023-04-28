@@ -1,7 +1,11 @@
 
 # Changelog
 
-in v4 we will introduce the idea of a very, very, very simple SHA hashing algo just to make sure whatever lyrics are encoded and compressed, then we will use this compressed dataset to save space on ChatGPT-4 while also preventing them from reading our text. this will allow us to interact with ChatGPT in a private and secure way, the private key will be shared through word-of-mouth with GPT-4.
+in v5 we implement a functionning webapp consisting of the apps yt-dlp (youtube-downloader) and whisper-cTranslate2 (faster-whisper)
+
+---
+
+in v4 we could introduce the idea of a very, very, very simple SHA hashing algo just to make sure whatever lyrics are encoded and compressed, then we will use this compressed dataset to save space on ChatGPT-4 while also preventing them from reading our text. this will allow us to interact with ChatGPT in a private and secure way, the private key will be shared through word-of-mouth with GPT-4. However this won't come in v4 nor v5 but will be remembered if needed in the future.
 
 ---
 

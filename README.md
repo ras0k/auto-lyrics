@@ -7,7 +7,8 @@ In v5, we have successfully integrated a functional webapp, combining the power 
 
 ---
 
-Auto-Lyrics version #4 - PREPARING FOR A SECURE FUTURE 👀
+### Auto-Lyrics version #4 - PREPARING FOR A SECURE FUTURE 👀
+
 In v4, we proposed the concept of employing a very simple SHA hashing algorithm to securely encode and compress lyrics. This would save space on ChatGPT-4 and maintain privacy. Although not implemented in v4 or v5, this idea will be revisited if necessary in the future. 🔒
 
 ---

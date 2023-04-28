@@ -3,15 +3,16 @@
 
 ## 🔥Auto-Lyrics version #5 - FULLY WORKING AS OF APRIL 20th 2023🔥
 
-in v5 we implement a functionning webapp consisting of the apps yt-dlp (youtube-downloader) and whisper-cTranslate2 (faster-whisper)
+In v5, we have successfully integrated a functional webapp, combining the power of yt-dlp (youtube-downloader) and whisper-cTranslate2 (faster-whisper) for an enhanced user experience. 🎶💻
 
 ---
 
-in v4 we could introduce the idea of a very, very, very simple SHA hashing algo just to make sure whatever lyrics are encoded and compressed, then we will use this compressed dataset to save space on ChatGPT-4 while also preventing them from reading our text. this will allow us to interact with ChatGPT in a private and secure way, the private key will be shared through word-of-mouth with GPT-4. However this won't come in v4 nor v5 but will be remembered if needed in the future.
+Auto-Lyrics version #4 - PREPARING FOR A SECURE FUTURE 👀
+In v4, we proposed the concept of employing a very simple SHA hashing algorithm to securely encode and compress lyrics. This would save space on ChatGPT-4 and maintain privacy. Although not implemented in v4 or v5, this idea will be revisited if necessary in the future. 🔒
 
 ---
 
-### Faster-Whisper Audio Transcription v3 (Upcoming) 🚀
+### Faster-Whisper Audio Transcription v3 🚀
 
 In the upcoming v3 of the Auto-Lyrics project, we are planning to include the following improvements:
 

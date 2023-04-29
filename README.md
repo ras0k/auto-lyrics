@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 🔥Auto-Lyrics version #5 - FULLY WORKING AS OF APRIL 20th 2023🔥
+## 🔥Auto-Lyrics version #5 - WORKING AS OF APRIL 20th 2023🔥
 
 In v5, we have successfully integrated a functional webapp, combining the power of yt-dlp (youtube-downloader) and whisper-cTranslate2 (faster-whisper) for an enhanced user experience. 🎶💻
 

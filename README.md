@@ -1,5 +1,5 @@
 # Démo COLAB (YouTube) :
-[<img alt="alt_text" width="888px" src="https://i.imgur.com/aOkgB6L.png" />](https://www.youtube.com/watch?v=B-neCP7MxBI)
+[<img alt="alt_text" width="666px" src="https://i.imgur.com/aOkgB6L.png" />](https://www.youtube.com/watch?v=B-neCP7MxBI)
 
 ---
 

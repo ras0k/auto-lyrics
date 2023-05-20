@@ -1,5 +1,10 @@
-# Démo COLAB (YouTube) :
-[<img alt="alt_text" width="666px" src="https://i.imgur.com/aOkgB6L.png" />](https://www.youtube.com/watch?v=B-neCP7MxBI)
+### Original idea chart (inspired by WhisperX) :
+[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/8YTpzj2.jpeg" />]
+
+---
+
+### Démo COLAB (YouTube) :
+[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/aOkgB6L.png" />](https://www.youtube.com/watch?v=B-neCP7MxBI)
 
 ---
 

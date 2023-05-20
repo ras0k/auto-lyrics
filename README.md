@@ -1,5 +1,5 @@
 ### Original idea chart (inspired by WhisperX) :
-[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/8YTpzj2.jpeg" />]
+<img alt="Démo COLAB (YouTube)" width="999px" src="https://i.imgur.com/8YTpzj2.jpeg" />
 
 ---
 

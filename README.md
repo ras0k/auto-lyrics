@@ -1,6 +1,6 @@
 ## 🔥 UPDATE: Colab Hotlink Issue Resolved 🔥
 
- I just figured out that the Colab hotlink in the previous version was not working. Apologies for the inconvenience! 
+I just figured out that the Colab hotlink in the previous version was not working. Apologies for the inconvenience! 
 
 However, I have provided an interactive link below that will allow you to access Colab while I work on the GUI. 
 

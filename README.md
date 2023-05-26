@@ -1,3 +1,9 @@
+🔥 UPDATE: Colab Hotlink Issue Resolved 🔥
+I just figured out that the Colab hotlink in the previous version was not working. Apologies for the inconvenience! However, I have provided an interactive link below that will allow you to access Colab while I work on the GUI. Click the link to reach Colab: [Interactive Link](https://colab.research.google.com/drive/1z2VEj_8liG3T9OTbKtlwnt0X0sj5-Rbb?usp=sharing)
+
+
+---
+
 ## 🎵🎤 Auto-Lyrics V6: Tune into Translations 🌐🔀
 
 [<img alt="LIVE DEMO | ras0k/auto-lyrics // v6 // ( whisper-ct2 & gpt-4 )" width="666px" src="https://i.imgur.com/2PUY2eH.png" />](https://www.youtube.com/watch?v=doIbM9FJqSo)

@@ -1,6 +1,6 @@
 ## 🔥 UPDATE: Colab Hotlink 🔥
 
-I have provided an interactive link below that will allow you to access Colab while I work on the GUI:
+I have provided an interactive link below that will allow you to access Colab Notebook while I work on the GUI:
 
 
 [<img alt="Colab Logo" width="240px" src="https://i.imgur.com/zVDB0sA.png" />](https://colab.research.google.com/drive/1z2VEj_8liG3T9OTbKtlwnt0X0sj5-Rbb?usp=sharing)

@@ -1,4 +1,4 @@
-## 🔥 UPDATE: Colab Hotlink 🔥
+## 🌐 Colab Hotlink 🌐 
 
 I have provided an interactive link below that will allow you to access Colab Notebook while I work on the GUI:
 

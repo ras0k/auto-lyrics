@@ -7,7 +7,7 @@ I have provided an interactive link below that will allow you to access Colab No
 
 ---
 
-## 🎵🎤 Auto-Lyrics V6: Tune into Translations 🌐🔀
+## 🎵🎤 Auto-Lyrics V6: Tune into Transcription 🌐🔀
 
 [<img alt="LIVE DEMO | ras0k/auto-lyrics // v6 // ( whisper-ct2 & gpt-4 )" width="666px" src="https://i.imgur.com/2PUY2eH.png" />](https://www.youtube.com/watch?v=doIbM9FJqSo)
 

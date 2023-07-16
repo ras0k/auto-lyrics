@@ -22,6 +22,28 @@ I have provided an interactive link below that will allow you to access Colab No
 
 ---
 
+# Features
+
+### 🔊 Faster-Whisper: Good transcription and integrated translation
+
+Faster-Whisper, an advanced audio transcription software, ensures that every word and syllable in your favorite songs is perfectly synchronized with the music. No more guessing or stumbling through tricky sections; with Faster-Whisper, you'll be singing along like a pro in no time.
+
+
+### 📝 Genius: Impeccable Lyrics
+
+By leveraging Genius, the world's largest collection of song lyrics and musical knowledge, Auto-Lyrics guarantees that you have access to the most accurate lyrics. Say goodbye to misheard or incorrect lyrics, and hello to a whole new level of precision.
+
+
+### 🧠 GPT-4: Artificial Intelligence Powerhouse
+
+At the core of Auto-Lyrics is GPT-4, OpenAI's most sophisticated language model. This AI powerhouse identifies and corrects any errors in lyrics, ensuring that they're as accurate and up-to-date as possible. With GPT-4, you'll never be caught singing the wrong words again.
+
+---
+
+In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-the-art technologies to deliver an unmatched lyric experience for music lovers and singers alike. By harnessing the capabilities of Faster-Whisper, Genius, and GPT-4, Auto-Lyrics provides users with perfectly aligned and accurate lyrics, making it easier than ever to enjoy and sing along to your favorite tunes with confidence. Discover the future of lyric alignment and correction with Auto-Lyrics, and let your voice shine. 🎤✨
+
+---
+
 # Changelog
 
 ## 🔥Auto-Lyrics version #5 - WORKING AS OF APRIL 20th 2023🔥
@@ -60,24 +82,3 @@ In v2 of the Auto-Lyrics project, we've made the following enhancements:
 
 These updates make the Audio Transcription project more versatile, interactive, and user-friendly, streamlining the process of transcribing audio from YouTube videos. 🎉
 
----
-
-# Features
-
-### 🔊 Faster-Whisper: Good transcription and integrated translation
-
-Faster-Whisper, an advanced audio transcription software, ensures that every word and syllable in your favorite songs is perfectly synchronized with the music. No more guessing or stumbling through tricky sections; with Faster-Whisper, you'll be singing along like a pro in no time.
-
-
-### 📝 Genius: Impeccable Lyrics
-
-By leveraging Genius, the world's largest collection of song lyrics and musical knowledge, Auto-Lyrics guarantees that you have access to the most accurate lyrics. Say goodbye to misheard or incorrect lyrics, and hello to a whole new level of precision.
-
-
-### 🧠 GPT-4: Artificial Intelligence Powerhouse
-
-At the core of Auto-Lyrics is GPT-4, OpenAI's most sophisticated language model. This AI powerhouse identifies and corrects any errors in lyrics, ensuring that they're as accurate and up-to-date as possible. With GPT-4, you'll never be caught singing the wrong words again.
-
----
-
-In summary, Auto-Lyrics is a groundbreaking experiment that combines state-of-the-art technologies to deliver an unmatched lyric experience for music lovers and singers alike. By harnessing the capabilities of Faster-Whisper, Genius, and GPT-4, Auto-Lyrics provides users with perfectly aligned and accurate lyrics, making it easier than ever to enjoy and sing along to your favorite tunes with confidence. Discover the future of lyric alignment and correction with Auto-Lyrics, and let your voice shine. 🎤✨

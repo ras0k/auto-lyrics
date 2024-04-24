@@ -7,16 +7,16 @@ Here is an interactive link below for verion 6 of auto-lyrics Colab Notebook wit
 
 ---
 
+### Démo COLAB (YouTube) :
+[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/6DQ31a4.png" />](https://youtu.be/B0KTAL76Ntc)
+
+---
+
 ## 🎵🎤 Auto-Lyrics V6: Tune into Transcription 🌐🔀
 
 
 ### Original idea chart (inspired by WhisperX) :
 <img alt="Original idea chart (inspired by WhisperX)" width="999px" src="https://i.imgur.com/8YTpzj2.jpeg" />
-
----
-
-### Démo COLAB (YouTube) :
-[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/aOkgB6L.png" />](https://www.youtube.com/watch?v=B-neCP7MxBI)
 
 ---
 

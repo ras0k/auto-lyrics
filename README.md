@@ -8,7 +8,7 @@ Here is an interactive link below for verion 7 of auto-lyrics Colab Notebook:
 ---
 
 ### Démo COLAB (YouTube) :
-[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/8qod7fS.jpeg" />](https://youtu.be/B0KTAL76Ntc)
+[<img alt="Démo COLAB (YouTube)" width="666px" src="https://i.imgur.com/8qod7fS.jpeg" />](https://youtu.be/4Wjwr-gMeQY)
 
 ---
 

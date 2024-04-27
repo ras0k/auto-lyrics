@@ -1,9 +1,9 @@
 # 🌐 Colab Hotlink 🌐 
 
-Here is an interactive link below for verion 6 of auto-lyrics Colab Notebook with the Gradio GUI:
+Here is an interactive link below for verion 7 of auto-lyrics Colab Notebook:
 
 
-[<img alt="Colab Logo" width="160px" src="https://i.imgur.com/zVDB0sA.png" />](https://colab.research.google.com/drive/1z2VEj_8liG3T9OTbKtlwnt0X0sj5-Rbb?usp=sharing)
+[<img alt="Colab Logo" width="160px" src="https://i.imgur.com/zVDB0sA.png" />](https://colab.research.google.com/drive/1nEPKQ_fS5hyzHD93WI8Oc3XMElGKcVMy?usp=sharing)
 
 ---
 

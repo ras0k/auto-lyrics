@@ -1,9 +1,9 @@
-# [🌐 Colab Hotlink 🌐](https://colab.research.google.com/drive/1ZcASi94VpIIAJuQKF-T7_VzoQcwmyvhq?usp=sharing)
+# [🌐 Colab Hotlink 🌐](https://colab.research.google.com/github/ras0k/auto-lyrics/blob/main/Auto_Lyrics_v9.ipynb)
 
-Here is an interactive link below for verion 8 of auto-lyrics Colab Notebook:
+Here is an interactive link below for verion 9 of auto-lyrics Colab Notebook:
 
 
-[<img alt="Colab Logo" width="160px" src="https://i.imgur.com/zVDB0sA.png" />](https://colab.research.google.com/drive/1ZcASi94VpIIAJuQKF-T7_VzoQcwmyvhq?usp=sharing)
+[<img alt="Colab Logo" width="160px" src="https://i.imgur.com/zVDB0sA.png" />](https://colab.research.google.com/github/ras0k/auto-lyrics/blob/main/Auto_Lyrics_v9.ipynb)
 
 ---
 
